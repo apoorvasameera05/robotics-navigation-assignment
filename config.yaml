@@ -1,0 +1,27 @@
+﻿camera:
+  horizontal_fov_degrees: 70.0
+  focal_length_px: null
+
+object_heights_m:
+  cone: 0.70
+  traffic cone: 0.70
+  blue_cone: 0.70
+  large_orange_cone: 0.70
+  orange_cone: 0.70
+  unknown_cone: 0.70
+  yellow_cone: 0.70
+  barrier: 1.00
+  road barrier: 1.00
+  stop sign: 0.75
+
+navigation_classes:
+  - cone
+  - traffic cone
+  - blue_cone
+  - large_orange_cone
+  - orange_cone
+  - unknown_cone
+  - yellow_cone
+  - barrier
+  - road barrier
+  - stop sign

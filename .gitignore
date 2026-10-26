@@ -1,0 +1,51 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Training outputs
+runs/
+
+# Downloaded model weights and exported models
+*.pt
+*.onnx
+
+# Generated output images
+output/*
+!output/.gitkeep
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Dataset files (not required for source-code submission)
+data/
+Traffic-Sign-Detection-Dataset-main/
+
+# Exported OpenVINO models
+yolov8n_openvino_model/
+yolov8n_int8_openvino_model/
+
+# Downloaded weights and temporary files
+weights/
+__pycache__/
+
+# Dataset files
+data/
+Traffic-Sign-Detection-Dataset-main/
+
+# Exported OpenVINO models
+yolov8n_openvino_model/
+yolov8n_int8_openvino_model/
+
+# Downloaded weights and temporary files
+weights/
+__pycache__/
+benchmark_int8_temp.py
