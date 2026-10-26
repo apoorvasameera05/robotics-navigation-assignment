@@ -284,11 +284,3 @@ The datasets, virtual environment, downloaded checkpoints, training outputs, and
 The project demonstrates a modular object-detection and monocular distance-estimation pipeline. CPU benchmarking showed that reducing YOLOv8n input size from 640 to 416 pixels improved measured throughput on the development machine. YOLO-World provided an alternative for detecting navigation-related objects beyond the baseline model's dedicated classes. OpenVINO CPU and Intel Iris Xe GPU inference were also benchmarked, and an INT8 quantization experiment was conducted.
 
 In the corrected custom-model evaluation, INT8 reduced reported inference latency from 9.2 ms/image to 6.4 ms/image, while mAP@0.50 decreased from 19.66% to 19.20%. The fine-tuning experiment and corrected evaluation also exposed limitations in the current custom model. Further training, representative dataset evaluation, camera calibration, and target-hardware testing are necessary before practical robotics deployment.
-
-## Contact Information
-
-- **Full Name:** Kodali Apoorva Sameera
-- **GitHub Username:** apoorvasameera05
-- **GitHub Repository:** https://github.com/apoorvasameera05/robotics-navigation-assignment
-- **Phone Number:** 9032217448
-- **Email Address:** apoorvasameerakodali@gmail.com
