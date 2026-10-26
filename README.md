@@ -290,5 +290,5 @@ In the corrected custom-model evaluation, INT8 reduced reported inference latenc
 - **Full Name:** Kodali Apoorva Sameera
 - **GitHub Username:** apoorvasameera05
 - **GitHub Repository:** https://github.com/apoorvasameera05/robotics-navigation-assignment
-- **Phone Number:** +91 YOUR_PHONE_NUMBER
-- **Email Address:** YOUR_EMAIL_ADDRESS
+- **Phone Number:** 9032217448
+- **Email Address:** apoorvasameerakodali@gmail.com
